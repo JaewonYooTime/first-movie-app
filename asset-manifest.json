@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/first-movie-app/static/js/main.a050e956.js",
+    "index.html": "/first-movie-app/index.html",
+    "main.a050e956.js.map": "/first-movie-app/static/js/main.a050e956.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.a050e956.js"
+  ]
+}
